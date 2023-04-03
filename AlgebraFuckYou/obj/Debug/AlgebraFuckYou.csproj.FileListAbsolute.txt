@@ -1,0 +1,11 @@
+C:\Users\79126\source\repos\AlgebraFuckYou\AlgebraFuckYou\obj\Debug\AlgebraFuckYou.csproj.AssemblyReference.cache
+C:\Users\79126\source\repos\AlgebraFuckYou\AlgebraFuckYou\obj\Debug\AlgebraFuckYou.csproj.SuggestedBindingRedirects.cache
+C:\Users\79126\source\repos\AlgebraFuckYou\AlgebraFuckYou\obj\Debug\AlgebraFuckYou.Form1.resources
+C:\Users\79126\source\repos\AlgebraFuckYou\AlgebraFuckYou\obj\Debug\AlgebraFuckYou.Properties.Resources.resources
+C:\Users\79126\source\repos\AlgebraFuckYou\AlgebraFuckYou\obj\Debug\AlgebraFuckYou.csproj.GenerateResource.cache
+C:\Users\79126\source\repos\AlgebraFuckYou\AlgebraFuckYou\obj\Debug\AlgebraFuckYou.csproj.CoreCompileInputs.cache
+C:\Users\79126\source\repos\AlgebraFuckYou\AlgebraFuckYou\bin\Debug\AlgebraFuckYou.exe.config
+C:\Users\79126\source\repos\AlgebraFuckYou\AlgebraFuckYou\bin\Debug\AlgebraFuckYou.exe
+C:\Users\79126\source\repos\AlgebraFuckYou\AlgebraFuckYou\bin\Debug\AlgebraFuckYou.pdb
+C:\Users\79126\source\repos\AlgebraFuckYou\AlgebraFuckYou\obj\Debug\AlgebraFuckYou.exe
+C:\Users\79126\source\repos\AlgebraFuckYou\AlgebraFuckYou\obj\Debug\AlgebraFuckYou.pdb
